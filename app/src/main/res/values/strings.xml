@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RevQuizSound</string>
+    <string name="Examiner">出題くん</string>
+    <string name="answerButton">答える！！</string>
 </resources>
