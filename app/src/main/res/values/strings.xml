@@ -2,4 +2,9 @@
     <string name="app_name">RevQuizSound</string>
     <string name="Examiner">出題くん</string>
     <string name="answerButton">答える！！</string>
+    <string name="anwerer">解答くん</string>
+    <string name="ButtonFalse">不正解</string>
+    <string name="Buttontrue">正解</string>
+    <string name="ButtonQuestion">出題</string>
+    <string name="ButtonClap">拍手</string>
 </resources>

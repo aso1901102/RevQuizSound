@@ -2,4 +2,6 @@
 <resources>
     <dimen name="buttonside" />
     <dimen name="buttonSide">60dp</dimen>
+    <dimen name="buttonWidth">125dp</dimen>
+    <dimen name="buttonHeight">80dp</dimen>
 </resources>
