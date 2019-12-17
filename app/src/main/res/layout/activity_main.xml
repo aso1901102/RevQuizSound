@@ -18,11 +18,13 @@
 
     <Button
         android:id="@+id/answerButton"
-        android:layout_width="291dp"
-        android:layout_height="wrap_content"
+        android:layout_width="292dp"
+        android:layout_height="60dp"
+        android:background="@color/colorAccent"
         android:text="@string/answerButton"
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="@android:color/background_light"
         android:textSize="36sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -44,11 +46,13 @@
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="24dp"
+        android:background="#009688"
         android:text="@string/anwerer"
-        android:textSize="36sp"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_light"
+        android:textSize="@dimen/title_text_size"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

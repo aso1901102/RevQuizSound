@@ -5,4 +5,5 @@
     <dimen name="buttonWidth">125dp</dimen>
     <dimen name="buttonHeight">80dp</dimen>
     <dimen name="topButton">50dp</dimen>
+    <dimen name="title_text_size">48sp</dimen>
 </resources>
